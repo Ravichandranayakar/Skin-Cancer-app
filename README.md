@@ -1,5 +1,5 @@
-# 🏥 Intelligent Skin Cancer Detection System
-  [view app](https://huggingface.co/spaces/RavichandraNayakar/Intelligent-Skin-Cancer-Detection-System)
+# 🏥 Intelligent Skin Cancer Detection System 
+[view app](https://huggingface.co/spaces/RavichandraNayakar/Intelligent-Skin-Cancer-Detection-System)
 
 An AI-powered skin cancer detection system using intelligent ensemble learning.
 
