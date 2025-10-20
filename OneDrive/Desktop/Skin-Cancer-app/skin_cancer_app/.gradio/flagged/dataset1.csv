@@ -1,0 +1,59 @@
+Upload Skin Lesion Image,Patient Age,Patient Sex,Prediction Results,timestamp
+,34,male,Error processing image: 'NoneType' object has no attribute 'save',2025-10-19 23:17:23.835328
+,34,male,Error processing image: 'NoneType' object has no attribute 'save',2025-10-19 23:17:27.342740
+.gradio\flagged\Upload Skin Lesion Image\dee22ea4cb4ae0a9d29d\clipboard.png,34,male,"### 🔬 PREDICTION RESULTS
+
+#### 🎯 Final Ensemble Prediction: **MALIGNANT ⚠️**
+
+---
+
+#### 📊 Individual Model Predictions:
+
+**KNN Model:** Malignant
+**Random Forest Model:** Benign
+
+---
+
+#### 🧠 Decision Logic:
+KNN trusted (high asymmetry lesion - KNN specialization)
+
+---
+
+#### 📈 Model Performance:
+- **Ensemble Accuracy:** 69%
+- **Ensemble F1 Score:** 71.5%
+- **Malignant Detection Rate:** 79%
+
+---
+
+#### ⚠️ Medical Disclaimer:
+This is an AI research tool. Always consult a dermatologist for proper diagnosis.
+        ",2025-10-20 11:08:40.949754
+.gradio\flagged\Upload Skin Lesion Image\3ecb453370daa9c6e440\1000060157.jpg,19,female,"### 🔬 PREDICTION RESULTS
+
+#### 🎯 Final Ensemble Prediction: **BENIGN ✅**
+
+---
+
+#### 📊 Individual Model Predictions:
+
+**KNN Model:** Benign
+**Random Forest Model:** Benign
+
+---
+
+#### 🧠 Decision Logic:
+Both models agree
+
+---
+
+#### 📈 Model Performance:
+- **Ensemble Accuracy:** 69%
+- **Ensemble F1 Score:** 71.5%
+- **Malignant Detection Rate:** 79%
+
+---
+
+#### ⚠️ Medical Disclaimer:
+This is an AI research tool. Always consult a dermatologist for proper diagnosis.
+        ",2025-10-20 12:29:07.515474
