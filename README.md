@@ -3,7 +3,12 @@
 An AI-powered skin cancer detection system using intelligent ensemble learning.
 [view app](https://huggingface.co/spaces/RavichandraNayakar/Intelligent-Skin-Cancer-Detection-System)
 
+# Context-Aware Ensemble AI Software for Skin Cancer Detection
+[Read the full research paper (PDF)](https://acrobat.adobe.com/id/urn:aaid:sc:ap:d48153ea-64c4-45cd-976d-b7dff9071dab)
+
 <img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/4348484e-42de-4a55-af10-e5121552e28b" />
+
+A Python-based project implementing interpretable ensemble learning (KNN + RF) for melanoma detection...
 
 ## 🎯 What This Does
 
