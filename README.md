@@ -3,7 +3,7 @@
 An AI-powered skin cancer detection system using intelligent ensemble learning.
 [view app](https://huggingface.co/spaces/RavichandraNayakar/Intelligent-Skin-Cancer-Detection-System)
 
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/d67fec7d-6c70-4f50-847b-faac7237be9d" />
+<img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/4348484e-42de-4a55-af10-e5121552e28b" />
 
 ## 🎯 What This Does
 
